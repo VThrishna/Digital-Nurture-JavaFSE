@@ -1,0 +1,11 @@
+.st0, .v1, .mystyle1 {
+  display: inline-block;
+  vertical-align: top;
+  width: 30%;
+  padding: 10px 20px;
+  border-left: 2px solid green;
+}
+
+.st0 {
+  border-left: none;
+}
